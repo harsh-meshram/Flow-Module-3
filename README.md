@@ -27,19 +27,14 @@ The script code also returns the Specs values.
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+There  is no as such problem in the code, if you have any do contact me.
 
 ## Authors
 
-Contributors names and contact info
+Harsh Meshram (https://www.linkedin.com/in/harsh-meshram/)
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is unlicensed.
