@@ -1,4 +1,4 @@
-# Project Title
+# Flow Module-3
 
 The code serves as a sort of data storage and retrieval system in the Flow Blockchain. It keeps information about Specs, such as company_name, model_name, modelno, year, and account(for example, a specification for a smart phone)
 
@@ -20,10 +20,10 @@ The script code also returns the Specs values.
 
 ## Getting Started
 
-1. Clone the given Repository in the "Flow Playgrounf"(https://play.flow.com/).
+1. Clone the given Repository in the "Flow Playground"(https://play.flow.com/).
 2. Deploy the Smart Contract.
-3. Execute Transation with apppropriate parameters.
-4. Execute the Scipts.
+3. Execute Transaction with appropriate parameters.
+4. Execute the Scripts.
 
 ## Help
 
